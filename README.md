@@ -1,16 +1,30 @@
-## Hi there 👋
+# Salut, moi c'est Powered ! 👋
 
-<!--
-**RickRoller36/RickRoller36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis passionné par l'informatique, le dev et l'auto-hébergement. J'aime bidouiller du matériel, monter des architectures perso et coder des outils utiles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ce que j'utilise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+### 📊 Mes stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="150" />
+</p>
+
+---
+
+### 🚀 Projets en cours
+- 🔧 **Projet 1** : RetroPhone Toolkit
+- 🌐 **Projet 2** : pas encore
