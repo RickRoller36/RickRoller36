@@ -5,7 +5,7 @@
 <p align="center">A DEVELOPPER</p>
 
 <p align="center">
-  [![Tech](https://skillicons.dev/icons?i=js,html,css,python,react,c)](https://skillicons.dev)
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,python,react,c" alt="tech"></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 Vibe-code with 80 Line prompt creator of ReadMe Studio and RetroPhone Toolkit
 
 <p align="center">
-  [Discord](https://discord.gg/shopfra) · [Website](https://example.com/docs)
+  <a href="https://discord.gg/shopfra">Discord</a> · <a href="https://example.com/docs">Website</a>
 </p>
 
 ![Visites](https://komarev.com/ghpvc/?username=RickRoller36)
