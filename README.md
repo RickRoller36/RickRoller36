@@ -19,8 +19,8 @@ Je suis passionné par l'informatique, le dev et l'auto-hébergement. J'aime bid
 ### 📊 Mes stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RickRoller36&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickRoller36&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="150" />
 </p>
 
 ---
